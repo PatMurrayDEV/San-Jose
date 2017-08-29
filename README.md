@@ -15,4 +15,4 @@ Custom Xcode theme inspired by Apple's WWDC 2017 session slides, and adapted for
 
 ------
 
-Design By [Pat Murray](https://twitter.com/_patmurray) in Australia
+Designed by [Pat Murray](https://twitter.com/_patmurray) in Australia
