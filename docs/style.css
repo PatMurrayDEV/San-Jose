@@ -2,6 +2,7 @@
   font-family: "San Francisco";
   font-weight: 400;
   src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
 
 * {
   color: #FFFFFF;
@@ -10,4 +11,48 @@
 body{
   background-color: #394045;
   font-family: "San Francisco", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+h1 {
+  color: #F69767;
+}
+
+h1, h2, h3, h4, h5 {
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  padding-top: 4%;
+}
+
+.example-image {
+  width: 100%;
+}
+
+.box {
+  border: 3px solid #A096C8;
+  color: #A096C8;
+  text-decoration: none;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-size: 60%;
+}
+
+.box:hover {
+  background-color: #A096C8;
+  color: #394045;
+}
+
+.pad-top {
+  margin-top: 4%;
+}
+
+pre {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
