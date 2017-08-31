@@ -22,8 +22,8 @@ Colours are in the sRGB space.
 | **Editor Elements**	                  |             |                                                     |
 | Background                             	| `#2B3135`  	| ![](https://placehold.it/30/2B3135/000000?text=+) 	|
 | Current Line                           	| `#394045`   | ![](https://placehold.it/30/394045/000000?text=+) 	|
-| Selection                              	| `#1C4C56`   | ![](https://placehold.it/30/1C4C56/000000?text=+) 	|
 | Cursor                                	| `#FFFFFF`   | ![](https://placehold.it/30/FFFFFF/000000?text=+) 	|
+| Selection                              	| `#1C4C56`   | ![](https://placehold.it/30/1C4C56/000000?text=+) 	|
 | Invisibles                             	| `#7F7F7F`   | ![](https://placehold.it/30/7F7F7F/000000?text=+) 	|
 | **Code Elements**	                    |             |                                                     |
 | Plain Text                             	| `#807F7F`  	| ![](https://placehold.it/30/807F7F/000000?text=+) 	|
