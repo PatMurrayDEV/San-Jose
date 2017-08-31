@@ -14,6 +14,7 @@ Custom Xcode theme inspired by Apple's WWDC 2017 session slides, and adapted for
 ------
 
 ## Build Your Own? Here's the Colours!
+<details><summary>Colour Table</summary><p>
 
 Colours are in the sRGB space. 
 
@@ -50,7 +51,7 @@ Colours are in the sRGB space.
 | Other Instance Variables and Globals   	| `#85B3CC`  	| ![](https://placehold.it/30/85B3CC/000000?text=+) 	|
 | Other Preprocessor Macros              	| `#CD9670`  	| ![](https://placehold.it/30/CD9670/000000?text=+) 	|
 
-
+</p></details>
 
 
 ------
