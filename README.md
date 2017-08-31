@@ -4,6 +4,9 @@ Custom Xcode theme inspired by Apple's WWDC 2017 session slides, and adapted for
 ![](https://patmurraydev.github.io/San-Jose/example.png)
 
 ## Install
+
+<details><summary><b>Xcode (Click to expand)</b></summary><p>
+
 1. Download using the GitHub .zip download option and unzip them.
 2. Create the custom themes folder: 
   ```
@@ -11,12 +14,14 @@ Custom Xcode theme inspired by Apple's WWDC 2017 session slides, and adapted for
   ```
 3. Move `San Jose.xccolortheme` file to this custom themes folder.
 
+</p></details>
+
 ------
 
 ## Build Your Own? Here's the Colours!
-<details><summary>Colour Table</summary><p>
-
 Colours are in the sRGB space. 
+
+<details><summary>Colour Table (Click to expand)</summary><p>
 
 | Component / Element                   	| Hex Colour 	|                                                   	|
 |----------------------------------------	|------------	|---------------------------------------------------	|
