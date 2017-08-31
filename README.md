@@ -18,7 +18,6 @@ Custom Xcode theme inspired by Apple's WWDC 2017 session slides, and adapted for
 
 
 ## Build Your Own? Here's the Colours!
-Colours are in the sRGB space. 
 
 <details><summary>Colour Table (Click to expand)</summary><p>
 
@@ -57,6 +56,7 @@ Colours are in the sRGB space.
 
 </p></details>
 
+Colours are in the sRGB space. 
 
-
+###### Footer
 Designed by [Pat Murray](https://twitter.com/_patmurray) in Australia
