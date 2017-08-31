@@ -17,18 +17,15 @@ Custom Xcode theme inspired by Apple's WWDC 2017 session slides, and adapted for
 
 Colours are in the sRGB space. 
 
-| Component                              	| Hex Colour 	|                                                   	|
+| Component / Element                   	| Hex Colour 	|                                                   	|
 |----------------------------------------	|------------	|---------------------------------------------------	|
+| **Editor Elements**	                  |             |                                                     |
 | Background                             	| `#2B3135`  	| ![](https://placehold.it/30/2B3135/000000?text=+) 	|
 | Current Line                           	| `#394045`   | ![](https://placehold.it/30/394045/000000?text=+) 	|
 | Selection                              	| `#1C4C56`   | ![](https://placehold.it/30/1C4C56/000000?text=+) 	|
 | Cursor                                	| `#FFFFFF`   | ![](https://placehold.it/30/FFFFFF/000000?text=+) 	|
 | Invisibles                             	| `#7F7F7F`   | ![](https://placehold.it/30/7F7F7F/000000?text=+) 	|
-
-
-
-| Element                                	| Hex Colour 	|                                                   	|
-|----------------------------------------	|------------	|---------------------------------------------------	|
+| **Code Elements**	                    |             |                                                     |
 | Plain Text                             	| `#807F7F`  	| ![](https://placehold.it/30/807F7F/000000?text=+) 	|
 | Comments                               	| `#BDBDBD`   | ![](https://placehold.it/30/BDBDBD/000000?text=+) 	|
 | Documentation Markup                   	| `#BDBDBD`   | ![](https://placehold.it/30/BDBDBD/000000?text=+) 	|
