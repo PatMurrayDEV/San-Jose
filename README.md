@@ -54,9 +54,11 @@ Custom Xcode theme inspired by Apple's WWDC 2017 session slides, and adapted for
 | Other Instance Variables and Globals   	| `#85B3CC`  	| ![](https://placehold.it/30/85B3CC/000000?text=+) 	|
 | Other Preprocessor Macros              	| `#CD9670`  	| ![](https://placehold.it/30/CD9670/000000?text=+) 	|
 
+Colours are in the sRGB space.
+
 </p></details>
 
-Colours are in the sRGB space. 
+ 
 
-###### Footer
-Designed by [Pat Murray](https://twitter.com/_patmurray) in Australia
+###### Designed by [Pat Murray](https://twitter.com/_patmurray) in Australia
+
